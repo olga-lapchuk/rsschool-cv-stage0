@@ -17,6 +17,7 @@ Hard work.
 - HTML
 - CSS
 - JavaScript (Basic)
+- Java (Basic)
 - Git
 
 ##**Code Example**
