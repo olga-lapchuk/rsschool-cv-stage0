@@ -1,36 +1,36 @@
 # Olga Lapchuk
 
-##**Contacts**
+## **Contacts**
 - Location: Minsk, Belarus
 - Phone: +375 44 742-45-27
 - Email: lapchuk.olga@gmail.com
 - GitHub: olga-lapchuk
 
-##**About Me**
+## **About Me**
 I am 29 years old, I work as a project manager in the field of construction. My job doesn't give me the growth I need, that's why I'm here. My goal is to gain knowledge in the field of front-end development.
 My strengths:
 I work great as a team,
 Full immersion in the essence of the problems,
 Hard work.
 
-##**Skills**
+## **Skills**
 - HTML
 - CSS
 - JavaScript (Basic)
 - Java (Basic)
 - Git
 
-##**Code Example**
+## **Code Example**
 
-##**Experience**
+## **Experience**
 
-##**Education**
+## **Education**
 University: Brest State Technical University, Civil Engineering major
 
-##**Courses**
+## **Courses**
 CS50 lectures
 Belhard - Website development basics
 
-##**Languages**
+## **Languages**
 Russian - native speaker.
 English - A2 (B1 in process…)
