@@ -6,7 +6,7 @@ input:focus {
    color: #036;
   }
   a:visited { 
-   color: rgb(185, 0, 185); 
+   color: rgb(187, 0, 187); 
   }
   a:hover { 
    color: #f00; 
@@ -22,5 +22,5 @@ input:focus {
   }
 
   td:active{
-     background: rgb(0, 255, 34);
+     background: rgb(0, 252, 34);
   }
