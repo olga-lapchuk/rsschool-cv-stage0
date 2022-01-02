@@ -1,0 +1,26 @@
+input:focus { 
+   color: blue; 
+  }
+  
+   a:link { 
+   color: #036;
+  }
+  a:visited { 
+   color: rgb(187, 0, 187); 
+  }
+  a:hover { 
+   color: #f00; 
+  }
+  a:active { 
+   color: #ff0; 
+  }
+  
+  table { border-spacing: 0; }
+  td { padding: 4px; }
+  tr:hover {
+   background: #fc0; 
+  }
+
+  td:active{
+     background: rgb(0, 252, 34);
+  }
